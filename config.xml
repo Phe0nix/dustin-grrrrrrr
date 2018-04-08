@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>Dustin Grrrr Sound</name>
+
+  <description>
+      No one can resist the amazing ''Grrrrrrr'' sound made by Dustin from Stranger Things! Just Click the button and Make some "Grrrrrrrrr...."
+  </description>
+
+  <author href="cuparb.com" email="cuparbnow@gmail.com">
+      Phe0nix
+  </author>
+
+</widget>
